@@ -1,0 +1,17 @@
+//
+//  Camera_App.pch
+//  Camera_App
+//
+//  Created by Praven on 8/26/15.
+//  Copyright © 2015 Praven. All rights reserved.
+//
+
+#ifndef Camera_App_pch
+#define Camera_App_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import AVFoundation
+#endif /* Camera_App_pch */
+
+#endif
